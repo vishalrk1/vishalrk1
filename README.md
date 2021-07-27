@@ -2,6 +2,10 @@
 
 <!--
 **vishalrk1/vishalrk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<p align="center">
+  <img src="images/working.gif" width=300>
+  <br /><br />
+</p>
 
 - 👋 Hi, I’m Vishal Karangale
 - 👀 I’m interested in Mobile App Developmen
@@ -38,6 +42,10 @@
   
   <a href="" target="_blank"> 
     <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+  </a>
+  
+  <a href="" target="_blank"> 
+    <img height="60" src="images/firebase.png">
   </a>
   
   <a href="" target="_blank"> 
