@@ -14,6 +14,8 @@
 
 ## Reach Me:
 
+[![](https://img.shields.io/badge/Gmail-alessandro.lamberti98@gmail.com-red)](mailto:karangalevr@gmail.com)
+
 <p align="start">
     <a href="https://github.com/vishalrk1" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white&color=black" alt="Github" />
