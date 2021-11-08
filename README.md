@@ -20,7 +20,7 @@ __Programming Languages__
 <img alt="Dart" src="https://img.shields.io/badge/Dart-%2314354C.svg?style=for-the-badge&logo=Dart&logoColor=white" />&nbsp;
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2314354C.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;
 
-__Frameworks and libraries__
+__ML Frameworks and libraries__
 
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;  
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikitlearn-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;  
@@ -37,31 +37,13 @@ __IDEs/Editors__
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp;
 
 __Mobile App Develop tools__
-<p align="center">
-  <a href=""> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-  </a>
-  
-  <a href=""> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-  </a>
-  
-  <a href="" target="_blank"> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-  </a>
-  
-  <a href="" target="_blank"> 
-    <img height="60" src="images/firebase.png">
-  </a>
-  
-  <a href="" target="_blank"> 
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
-  </a>
-</p>
+
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-%23150458.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp; 
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23013243.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23013243.svg?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp; 
 
 ## Reach Me:
-
-[![](https://img.shields.io/badge/Gmail-karangalevr@gmail.com)](mailto:karangalevr@gmail.com)
 
 <p align="start">
     <a href="https://github.com/vishalrk1" target="_blank">
