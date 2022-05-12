@@ -7,8 +7,8 @@
   <br /><br />
 </p> -->
 
-- 👋 Hi, I’m Vishal Karangale
-- 👀 I’m interested in Mobile App Developmen, Machine learning, Deep learning and NLP.
+- 👋 Hi, I’m Vishal Karangale!
+- 👀 I’m interested in Mobile App Development, Machine learning, Deep learning and NLP.
 - 👩‍🍳 In my free time, I try to learn new things here and there.
 - 🛠 I’m looking to collaborate on any Project and also currently looking for any work opportunity
 
