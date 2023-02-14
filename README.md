@@ -22,26 +22,21 @@ __Programming Languages__
 
 __ML Frameworks and libraries__
 
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;  
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikitlearn-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;  
+<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=black" />&nbsp; 
+<img alt="PyTorch" src="https://img.shields.io/badge/pytorch-%23013243.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
+<img alt="Sklearn" src="https://img.shields.io/badge/scikitlearn-%23150458.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp; 
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp; 
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
 <img alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />&nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp; 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-%23150458.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp; 
 
 __IDEs/Editors__
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp; 
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp;
-
-__Mobile App Develop tools__
-
-<img alt="Flutter" src="https://img.shields.io/badge/flutter-%23150458.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp; 
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23013243.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23013243.svg?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp; 
 
 ## Reach Me:
 
