@@ -8,28 +8,32 @@
 </p> -->
 
 - 👋 Hi, I’m Vishal Karangale!
-- 👀 I’m interested in Mobile App Development, Machine learning, Deep learning and NLP.
+- 👀 I’m interested in AI and Fullstack development.
 - 👩‍🍳 In my free time, I try to learn new things here and there.
 - 🛠 I’m looking to collaborate on any Project and also currently looking for any work opportunity
 
-## Experienced In:
+# Languages & Frameworks
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjavascript%2Ctypescript%2Creact%2Cnextjs%2Cvite%2Ccss%2Chtml%2Cstyledcomponents%2Ctailwindcss%2C&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/iconsi=python%2Cjavascript%2Ctypescript%2Creact%2Cnextjs%2Cvite%2Ccss%2Chtml%2Cstyledcomponents%2Ctailwindcss%2C&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django%2Credux%2Cflutter%2Cpytorch%2Ctensorflow%2Cae%2Cpr%2Cgit&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=django%2Credux%2Cflutter%2Cpytorch%2Ctensorflow%2Cae%2Cpr%2Cgit&theme=light" />
+            <img src="https://skillicons.dev/icons?i=django%2Credux%2Cflutter%2Cpytorch%2Ctensorflow%2Cae%2Cpr%2Cgit&theme=light" alt="skills - 2" />
+        </picture>
 
-__Programming Languages__
+  </a>
+</p>
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img alt="Dart" src="https://img.shields.io/badge/Dart-%2314354C.svg?style=for-the-badge&logo=Dart&logoColor=white" />&nbsp;
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2314354C.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;
-<img alt="Javascript" src="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;
-
-__Frameworks and libraries__
-
-<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=black" />&nbsp; 
-<img alt="PyTorch" src="https://img.shields.io/badge/pytorch-%23013243.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
-<img alt="Sklearn" src="https://img.shields.io/badge/scikitlearn-%23150458.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp; 
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-<img alt="Flutter" src="https://img.shields.io/badge/flutter-%23150458.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp; 
-<img alt="React" src="https://img.shields.io/badge/React-%23150458.svg?style=for-the-badge&logo=React&logoColor=white" />&nbsp; 
-<img alt="Django" src="https://img.shields.io/badge/Django-%23150458.svg?style=for-the-badge&logo=Django&logoColor=white" />&nbsp; 
+# My stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalrk1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Reach Me:
 
